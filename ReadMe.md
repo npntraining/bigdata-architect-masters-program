@@ -6,7 +6,7 @@ NPN Training - <a href="www.npntraining.com">www.npntraining.com</a></div>
 
 <span style="color:#039be5;font-size:14pt;width:80%;padding-bottom:10px">About the Course</span>
 
-The **Big Data Architect Masters Program **is our most popular in-depth program designed to empower professionals to develop relevant competencies and accelerate their career progression in Big Data technologies through complete Hands-on training.
+The **Big Data Architect Masters Program** is our most popular in-depth program designed to empower professionals to develop relevant competencies and accelerate their career progression in Big Data technologies through complete Hands-on training.
 
 <span style="color:#039be5;font-size:14pt;width:80%;padding-bottom:10px">Program Structure</span>
 
