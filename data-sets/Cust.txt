@@ -1,6 +1,0 @@
-Anand	anand@npn.com	080
-Ajay	ajay@npn.com	044
-Ashok	ashok@npn.com	040
-Akshith	akshi@npn.com	080
-Alok	alok@npn.com	033
-Akshay	akshay@npn.com	0562

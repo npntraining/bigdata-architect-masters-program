@@ -37,3 +37,8 @@ Being a Big Data Developer requires you to learn multiple technologies, and this
 | DevOps for Data Engineers                     | 2 Weeks            |
 | Add-on Courses                                | 1 Week             |
 
+mr-jobhistory-daemon.sh start historyserver
+http://192.168.234.128:19888/jobhistory
+
+
+curl http://localhost:8088/ws/v1/history/mapreduce/jobs
