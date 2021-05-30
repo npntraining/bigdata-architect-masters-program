@@ -38,7 +38,13 @@ NodeManager
 __Executing MapReduce Program on CloudXLab__
 
 ```
-yarn jar /usr/hdp/2.6.2.0-205/hadoop-mapreduce/hadoop-mapreduce-examples-2.7.3.2.6.2.0-205.jar wordcount /user/npnnaveenpn2187/1.dat /user/npnnaveenpn2187/output_01
+yarn jar /usr/hdp/2.6.2.0-205/hadoop-mapreduce/hadoop-mapreduce-examples-2.7.3.2.6.2.0-205.jar wordcount /user/$USER/1.dat /user/$USER/output_01
+```
+
+Note : Next time when you run do change the output directory(output_01 change to some name)
+
+```
+[npntraining ~]> hdfs dfs -cat /user/$USER/output_01/part-0*
 ```
 
 __Executing MapReduce Program on NPN Training__
