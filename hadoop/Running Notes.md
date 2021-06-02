@@ -58,3 +58,9 @@ yarn application -list
 yarn logs -applicationId <applicationId>
 ```
 
+## Sqoop
+
+```
+source /home/npnnaveenpn2187/big-data-architect-training/hadoop/data/retail_db.sql
+```
+
