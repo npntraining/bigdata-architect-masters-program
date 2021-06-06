@@ -1,7 +1,8 @@
-import 
---connect 
-jdbc:mysql://localhost:3306/sqoop_demo 
---username 
-root 
---password 
-npntraining
+--connect
+jdbc:mysql://cxln2.c.thelab-240901.internal/sqoopex
+
+--username
+sqoopuser
+
+--password
+NHkkP876rp
