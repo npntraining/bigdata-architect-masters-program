@@ -12,7 +12,7 @@ row format delimited
 fields terminated by ','
 stored as textfile;
 
-load data local inpath '/home/$USER/big-data-architect-training/hadoop/module05/Transactions.txt' into table TransactionRecords;
+load data local inpath '/home/${env:USER}/big-data-architect-training/hadoop/module05/Transactions.txt' into table TransactionRecords;
 
 create table TransactionRecordsByCat(
     txnno INT, 
