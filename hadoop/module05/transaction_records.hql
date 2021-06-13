@@ -1,4 +1,4 @@
-create table TransactionRecords(
+create table transaction_records(
     txnno INT, 
     txndate STRING, 
     custno INT, 
@@ -12,4 +12,4 @@ row format delimited
 fields terminated by ','
 stored as textfile;
 
-load data local inpath '/home/${env:USER}/big-data-architect-training/hadoop/module05/Transactions.txt' into table TransactionRecords;
+load data local inpath '/home/${env:USER}/big-data-architect-training/hadoop/module05/Transactions.txt' into table transaction_records;
