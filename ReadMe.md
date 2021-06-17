@@ -31,6 +31,7 @@ __Clone Repository__
 ```
 git clone https://github.com/npntraining/big-data-architect-training.git
 git pull https://github.com/npntraining/big-data-architect-training.git
+git checkout .
 ```
 
 mr-jobhistory-daemon.sh start historyserver
