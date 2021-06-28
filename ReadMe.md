@@ -32,6 +32,10 @@ __Clone Repository__
 git clone https://github.com/npntraining/big-data-architect-training.git
 git pull https://github.com/npntraining/big-data-architect-training.git
 git checkout .
+
+git clean -fd
+git reset --hard HEAD
+
 ```
 
 mr-jobhistory-daemon.sh start historyserver
