@@ -108,6 +108,7 @@ pom.xml
         </dependency>
     </dependencies>
 
+<!--
 <build>
 		<plugins>
 			<plugin>
@@ -143,7 +144,7 @@ pom.xml
 				</executions>
 			</plugin>	
 		</plugins>
-	</build>
+	</build>-->
 </project>
 ```
 
