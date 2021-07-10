@@ -1,0 +1,7 @@
+browsing_categories
+ social networking 
+ search engines
+ professional networking
+ streaming
+ downloading
+ peer networking
